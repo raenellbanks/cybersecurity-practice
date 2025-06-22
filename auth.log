@@ -1,0 +1,9 @@
+Jun 22 08:13:45 server sshd[1023]: Failed password for invalid user admin from 192.168.1.24 port 44672 ssh2
+Jun 22 08:13:47 server sshd[1023]: Failed password for invalid user root from 192.168.1.24 port 44672 ssh2
+Jun 22 08:13:49 server sshd[1023]: Failed password for invalid user test from 192.168.1.24 port 44672 ssh2
+Jun 22 08:13:51 server sshd[1023]: Failed password for invalid user guest from 192.168.1.24 port 44672 ssh2
+Jun 22 08:14:02 server sshd[1023]: Accepted password for raenell from 10.0.0.16 port 55022 ssh2
+Jun 22 08:14:05 server sshd[1023]: Failed password for invalid user admin from 192.168.1.24 port 44672 ssh2
+Jun 22 08:14:08 server sshd[1023]: Failed password for invalid user oracle from 192.168.1.24 port 44672 ssh2
+Jun 22 08:14:10 server sshd[1023]: Failed password for invalid user webmaster from 192.168.1.24 port 44672 ssh2
+Jun 22 08:14:12 server sshd[1023]: Connection closed by authenticating user raenell 10.0.0.16 port 55022
