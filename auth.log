@@ -1,6 +1,0 @@
-Jun 21 08:12:01 server sshd[1995]: Failed password for invalid user admin from 10.10.10.1 port 22 ssh2
-Jun 21 08:12:05 server sshd[1997]: Failed password for root from 10.10.10.1 port 22 ssh2
-Jun 21 08:12:10 server sshd[1998]: Accepted password for user1 from 192.168.1.100 port 51515 ssh2
-Jun 21 08:13:50 server sshd[2001]: Failed password for root from 10.10.10.1 port 22 ssh2
-Jun 21 08:14:22 server sshd[2002]: Accepted password for user2 from 192.168.1.102 port 53421 ssh2
-Jun 21 08:15:01 server sshd[2004]: Failed password for root from 10.10.10.1 port 22 ssh2
